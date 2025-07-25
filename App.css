@@ -1,0 +1,13 @@
+body {
+  background-image: url("./assets/pexels-codioful-7135005.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
